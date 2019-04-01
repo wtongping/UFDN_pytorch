@@ -1,20 +1,21 @@
 # UFDN_pytorch
-origin implement link is here
-this repository modified dataloader, u can load data from image floder rather than h5files.
-The data should be organized like this:
+origin implement link is [here](https://github.com/Alexander-H-Liu/UFDN)</br>
+this repository modified dataloader, u can load data from image floder rather than h5files.</br>
+The data should be organized like this:</br>
+</br>
 data
-  |---dataset_name
-  |    |---train
-  |    |    |---domain_A_name
-  |    |          1.jpg
-  |    |    |---domain_B_name
-  |    |          1.jpg
-  |    |    |---domain_C_name
-  |    |          1.jpg
-  |    |---test
-  |    |    |---domain_A_name
-  |    |          1.jpg
-  |    |    |---domain_B_name
-  |    |          1.jpg
-  |    |    |---domain_C_name
-  |    |          1.jpg
+&nbsp&nbsp|---dataset_name</br>
+&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp|---train</br>
+&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp|---domain_A_name</br>
+&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp1.jpg</br>
+&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp|---domain_B_name</br>
+&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp1.jpg</br>
+&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp|---domain_C_name</br>
+&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp1.jpg</br>
+&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp|---train</br>
+&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp|---domain_A_name</br>
+&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp1.jpg</br>
+&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp|---domain_B_name</br>
+&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp1.jpg</br>
+&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp|---domain_C_name</br>
+&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp1.jpg</br>
