@@ -4,19 +4,18 @@ this repository modified dataloader, u can load data from image floder rather th
 The data should be organized like this:</br>
 </br>
 data</br>
-&nbsp &nbsp |---dataset_name</br>
-&nbsp &nbsp |&nbsp &nbsp &nbsp &nbsp|---train</br>
-&nbsp &nbsp |&nbsp &nbsp &nbsp &nbsp|&nbsp &nbsp &nbsp &nbsp|---domain_A_name</br>
-&nbsp &nbsp |&nbsp &nbsp &nbsp &nbsp|&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp1.jpg</br>
-&nbsp &nbsp |&nbsp &nbsp &nbsp &nbsp|&nbsp &nbsp &nbsp &nbsp|---domain_B_name</br>
-&nbsp &nbsp |&nbsp &nbsp &nbsp &nbsp|&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp1.jpg</br>
-&nbsp &nbsp |&nbsp &nbsp &nbsp &nbsp|&nbsp &nbsp &nbsp &nbsp|---domain_C_name</br>
-&nbsp &nbsp |&nbsp &nbsp &nbsp &nbsp|&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp1.jpg</br>
-&nbsp &nbsp |---dataset_name</br>
-&nbsp &nbsp |&nbsp &nbsp &nbsp &nbsp|---test</br>
-&nbsp &nbsp |&nbsp &nbsp &nbsp &nbsp|&nbsp &nbsp &nbsp &nbsp|---domain_A_name</br>
-&nbsp &nbsp |&nbsp &nbsp &nbsp &nbsp|&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp1.jpg</br>
-&nbsp &nbsp |&nbsp &nbsp &nbsp &nbsp|&nbsp &nbsp &nbsp &nbsp|---domain_B_name</br>
-&nbsp &nbsp |&nbsp &nbsp &nbsp &nbsp|&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp1.jpg</br>
-&nbsp &nbsp |&nbsp &nbsp &nbsp &nbsp|&nbsp &nbsp &nbsp &nbsp|---domain_C_name</br>
-&nbsp &nbsp |&nbsp &nbsp &nbsp &nbsp|&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp1.jpg</br>
+&nbsp; &nbsp; |---dataset_name</br>
+&nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp;|---train</br>
+&nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp;|---domain_A_name</br>
+&nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1.jpg</br>
+&nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp;|---domain_B_name</br>
+&nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1.jpg</br>
+&nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp;|---domain_C_name</br>
+&nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1.jpg</br>
+&nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp;|---test</br>
+&nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp;|---domain_A_name</br>
+&nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1.jpg</br>
+&nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp;|---domain_B_name</br>
+&nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1.jpg</br>
+&nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp;|---domain_C_name</br>
+&nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1.jpg</br>
